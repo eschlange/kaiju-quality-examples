@@ -20,7 +20,7 @@ setup(
     license=license,
     classifiers=['Programming Language :: Python :: 3.10'],
     author='Kaiju Quality Consulting LLC',
-    author_email='eric.schlange@pizzahut.com',
+    author_email='<ENTER EMAIL HERE>@something.com',
     description='Kaiju Quality Consulting Example Library',
     include_package_data=True,
     long_description=readme,
